@@ -1,0 +1,17 @@
+.clover/
+target/
+.project
+.classpath
+.settings/
+.idea/
+.patch
+*.iml
+*.ipr
+*.iws
+.DS_Store
+reports/
+.directory
+*.log
+*.epoch
+dependency-reduced-pom.xml
+*.bat
